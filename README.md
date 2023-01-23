@@ -1,6 +1,8 @@
 # OpenAI-Text-and-Image-to-Automated-Whatsapp-Message
 Program to generate unique festival greeting texts and images with OpenAI, and automate WhatsApp messaging with Selenium
 
+Follow my Instagram for more creative programming content: https://instagram.com/issyshao9?igshid=YmMyMTA2M2Y=
+
 ## Project Flow
 1. Export iCloud/Google contacts to excel
     1. Export contacts as vcard file
@@ -45,7 +47,7 @@ Virtual SMS Indonesian number ~US$2: https://sms-activate.org/cn/getNumber
 
 Privado Free Vpn: https://privadovpn.com/
 
-## Project story
+## Project Story
 👩🏻‍💻 2023 mid-Jan, I started training to become a Python for Data Science instructor at Preface. One of the projects in the teaching module is to create a program that sends WhatsApp messages using Selenium. 
 
 🧧 As Lunar New Year was approaching, I was inspired to take the exercise to real-life application. 
@@ -56,7 +58,12 @@ Privado Free Vpn: https://privadovpn.com/
 
 😂 Given how terrible the DALL•E images are, this mini project has become more of a meme project. I died laughing seeing the sent images when Selenium was running the message automation.
 
-## Project output
+## Project Output
 Created 120 unique text greetings and 120 unique festive images. API requests costed US$2. Overall, in trial runs plus launch run, API requests costed US$5.
 
 Sending 120 text + image WhatsApp messages using Selenium took 1 hour.
+
+### Painpoint
+1. DALL•E image link expires in 1 hour after creation. It must be downloaded immediately.
+2. Selenium.driver.send.keys() does not support emojis. There is a function to work around the limitation with JavaScript.
+(to be continued)
