@@ -1,7 +1,7 @@
 # OpenAI-Text-and-Image-to-Automated-Whatsapp-Message
 Program to generate unique festival greeting texts and images with OpenAI, and automate WhatsApp messaging with Selenium
 
-Follow my Instagram for more creative programming content: https://instagram.com/issyshao9?igshid=YmMyMTA2M2Y=
+Follow my Instagram for more creative programming content: https://www.instagram.com/anyinsight.tech/
 
 ## Project Flow
 1. Export iCloud/Google contacts to excel
