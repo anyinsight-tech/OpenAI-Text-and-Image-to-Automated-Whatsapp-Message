@@ -3,6 +3,8 @@ Program to generate unique festival greeting texts and images with OpenAI, and a
 
 Follow my Instagram for more creative programming content: https://www.instagram.com/anyinsight.tech/
 
+Support me if you find this useful: https://www.buymeacoffee.com/anyinsightC
+
 ## Project Flow
 1. Export iCloud/Google contacts to excel
     1. Export contacts as vcard file
